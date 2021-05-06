@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Testing tregdgf;lhfg';j;hggmkjjhljjk
+=======
+hi this is first story board got Git
+
+>>>>>>> a33d706 (update storyboard)
