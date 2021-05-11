@@ -7,3 +7,4 @@ free -g
 echo "Disk Utilization"
 df -h
 echo " Test "
+echo "new update"
