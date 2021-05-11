@@ -6,3 +6,4 @@ echo "Memory Utilization"
 free -g
 echo "Disk Utilization"
 df -h
+echo " Test "
