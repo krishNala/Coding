@@ -2,11 +2,11 @@
 
 echo "Server health Check"
 
-CPU Utilization 
+echo "CPU Utilization"
 sar 2 4 
 
-Memory Utilization 
+echo "Memory Utilization"
 free -g
 
-Disk Utilization
+echo "Disk Utilization"
 df -h
